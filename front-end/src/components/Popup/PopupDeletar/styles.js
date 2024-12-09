@@ -11,6 +11,7 @@ export const Fundo = styled.div `
   display: flex;
   justify-content: center;
   align-items: center;
+  z-index: 50;
 `;
 
 export const ContainerAviso = styled.div `
