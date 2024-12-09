@@ -6,10 +6,10 @@ Este projeto foi desenvolvido como parte da disciplina de Desenvolvimento Web 1 
 ## Tecnologias Utilizadas
 
 -   **Front-end**:
-  -   React;
-  -   Styled-Components;
-	-   React Router;
-	-   Axios.
+    -   React;
+    -   Styled-Components;
+    -   React Router;
+    -   Axios.
 
 -   **Back-end**:
     -   Node.js;
@@ -30,7 +30,7 @@ Este projeto foi desenvolvido como parte da disciplina de Desenvolvimento Web 1 
 
 Para clonar o repositório, execute o seguinte comando no seu terminal:
 
-`git clone https://github.com/CarolGMilano/projeto-final-wb1` 
+	git clone https://github.com/CarolGMilano/projeto-final-wb1 
 
 ### 2. Instalar Dependências
 
@@ -52,7 +52,7 @@ Para clonar o repositório, execute o seguinte comando no seu terminal:
 
 2.  Instale as dependências do back-end:
 
-	`npm install`
+   	 `npm install`
 
 #### Banco de Dados:
 
@@ -101,7 +101,7 @@ Para clonar o repositório, execute o seguinte comando no seu terminal:
 
 Navegue até a pasta do back-end e execute:
 
-	`npx nodemon index.js` 
+	npx nodemon index.js 
 
 O servidor do back-end será iniciado e estará disponível em `http://localhost:3001` (ou outro endereço configurado).
 
@@ -109,7 +109,7 @@ O servidor do back-end será iniciado e estará disponível em `http://localhost
 
 Navegue até a pasta do frontend e execute:
 
-`npm start` 
+	npm start 
 
 O frontend será iniciado e estará disponível em `http://localhost:3000`.
 
